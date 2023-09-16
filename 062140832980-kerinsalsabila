@@ -1,0 +1,19 @@
+kelebihan php versi 7 :
+1. bersifat open resource, yaitu mudah diakses grstis oleh banyak orang
+2. lebih fleksibel, karena mudah dikombinasikan dengan bahasa pemrograman lainnya
+3. pemuatan yang lebih cepat, yaitu developer yang menggunakannya memiliki pemuatan yang cepat meskipun koneksi lambat
+4. lebih user friendly termasuk kepada pemula
+
+kekurangan php versi 7 :
+1. persaingan ketat
+2. mudah ditiru orang lain 
+
+kelebihan php versi 8 :
+1. JIT compiler
+2. JSON extension always activated
+3. Union Types
+4. WeakMap
+
+kekurangan php versi 8 :
+1. kode lama yang tidak kompatibel, beberapa perubahan dalam sintaks dan perilaku mungkin mengharuskan pembaruan kode lama.
+
